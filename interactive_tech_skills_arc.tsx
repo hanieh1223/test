@@ -1,9 +1,5 @@
 import React, { useState } from 'react';
 import {
-  Code2,
-  Database,
-  Globe2,
-  Layers3,
   Sparkles,
   ArrowUpRight,
   RotateCcw,
